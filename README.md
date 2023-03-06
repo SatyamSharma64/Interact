@@ -1,3 +1,2 @@
 # FullStack Social Media App
-Complete React MERN Full Stack Social Media App
-
+Had fun completing React MERN Full Stack Social Media App
