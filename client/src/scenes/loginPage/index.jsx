@@ -24,8 +24,14 @@ const LoginPage = () => {
         borderRadius="1.5rem"
         backgroundColor={theme.palette.background.alt}
       >
-        <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-          Welcome to Interact, the Social Media for Sociopaths!
+        <Typography fontWeight="500" variant="h5" sx={{ mb: "0.75rem" }}>
+          Welcome to Interact, Have a Look into the working: 
+        </Typography>
+        <Typography fontWeight="300" variant="h5" sx={{ mb: "0.75rem" }}>
+          Email: arthur@gmail.com
+        </Typography>
+        <Typography fontWeight="300" variant="h5" sx={{ mb: "1rem" }}>
+          Password: arthurlewin
         </Typography>
         <Form />
       </Box>
